@@ -1,9 +1,5 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashish .
 
-<a href="https://www.linkedin.com/in/ashishavs/">
-  <img align="left" alt="Ashish AVS | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 [![Visits Badge](https://badges.pufler.dev/visits/Ashish-AVS/Ashish-AVS)](https://github.com/Ashish-AVS/Ashish-AVS?color=blue)
 ![Repos Badge](https://badges.pufler.dev/repos/Ashish-AVS?color=red)
 
@@ -36,6 +32,11 @@ Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and W
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish-AVS&show_icons=true&locale=en" alt="Ashish-AVS" /></p>
 
+### Feel Free to Contact Me
+
+[<img align="left" alt="Ashish_Gmail" width=25px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:avsashish9@gmail.com)
+[<img align="left" alt="Ashish_Facebook" width=25px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/avsashish/)
+[<img align="left" alt="Ashish_Linkedin" width=25px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/ashishavs/)
 <!--
 **Ashish-AVS/Ashish-AVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
