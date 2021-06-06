@@ -6,7 +6,7 @@
 
 Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and Web Development.
 
-- 🌱 I’m currently learning **NextJS | Redux | GraphQL | Express**
+- 🌱 I’m currently learning **NextJS | MongoDB | GraphQL | Express**
 ## Skills:
 
 <a href="https://www.python.org" target="_blank"> 
