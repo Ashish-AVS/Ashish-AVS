@@ -9,6 +9,7 @@ Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and W
 - 🌱 I’m currently learning **NextJS | MongoDB | GraphQL** 
 ## Skills:
 
+<div>
 <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -26,7 +27,11 @@ Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and W
 </a>
 <a href="https://nodejs.org" target="_blank"> 
     <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
+
+ <a title="Armin Ronacher, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flask_logo.svg">
+   <img width="60" height="40" alt="Flask logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/256px-Flask_logo.svg.png">
+ </a>
+</div>
 
 ## 📈 My GitHub Stats
 
