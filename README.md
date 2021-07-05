@@ -29,11 +29,11 @@ Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and W
     <img width="128"  height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
  <a title="Armin Ronacher, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flask_logo.svg">
-   <img width="128"  height="60" alt="Flask logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/256px-Flask_logo.svg.png">
+   <img  width="128"  height="100" alt="Flask logo" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
  </a>
     
 <a title="ZEIT, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://nextjs.org/">
-    <img width="128"  height="80" alt="Nextjs-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/128px-Nextjs-logo.svg.png">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' width="128"  height="80" >
 </a>
     
 </div>
