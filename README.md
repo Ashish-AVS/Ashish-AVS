@@ -11,26 +11,31 @@ Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and W
 
 <div>
 <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="128"  height="80"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="128"  height="80"/>
 </a>
 <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="128"  height="80"/>
 </a> 
 <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="128"  height="80"/>
 </a>
 <a href="" target="_blank"> 
-  <img alt="Firebase" width=40px margin=10px src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img alt="Firebase" width="128"  height="80"src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </a>
 <a href="https://nodejs.org" target="_blank"> 
-    <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img width="128"  height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
  <a title="Armin Ronacher, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flask_logo.svg">
-   <img width="60" height="40" alt="Flask logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/256px-Flask_logo.svg.png">
+   <img width="128"  height="60" alt="Flask logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/256px-Flask_logo.svg.png">
  </a>
+    
+<a title="ZEIT, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://nextjs.org/">
+    <img width="128"  height="80" alt="Nextjs-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/128px-Nextjs-logo.svg.png">
+</a>
+    
 </div>
 
 ## 📈 My GitHub Stats
