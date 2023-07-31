@@ -6,7 +6,6 @@
 
 Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and Web Development.
 
-- 🌱 Currently learning **TypeScript** 
 ## Skills:
 
 <div>
