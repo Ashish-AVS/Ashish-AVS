@@ -1,62 +1,21 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashish .
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aditya C.
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ashish-AVS/Ashish-AVS)](https://github.com/Ashish-AVS/Ashish-AVS?color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/Ashish-AVS?color=red)
+## 💫 About Me:
+Hi, I'm Ashish, a final year CSE Undergrad at BITS Pilani, <br>exploring Web Development and Natural Language Processing.<br><br>🌱 Tech that excites me: TypeScript | NextJS | Tensorflow | Langchain<br>👨‍💻 All of my projects are available at: @[Ashish-AVS](https://github.com/Ashish-AVS)<br>
 
 
-Hi, I'm Ashish AVS, a CSE Sophomore at BITS Pilani, exploring Data Science and Web Development.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashishavs01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishavs/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashishavs7) 
 
-## Skills:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adeecc&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adeecc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeecc&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div>
-<a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="128"  height="80"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="128"  height="80"/>
-</a>
-<a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="128"  height="80"/>
-</a> 
-<a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="128"  height="80"/>
-</a>
-<a href="" target="_blank"> 
-  <img alt="Firebase" width="128"  height="80"src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-</a>
-<a href="https://nodejs.org" target="_blank"> 
-    <img width="128"  height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- <a title="Armin Ronacher, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flask_logo.svg">
-   <img  width="128"  height="100" alt="Flask logo" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
- </a>
-    
-<a title="ZEIT, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://nextjs.org/">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' width="128"  height="80" >
-</a>
-    
-</div>
-
-## 📈 My GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish-AVS&show_icons=true&locale=en" alt="Ashish-AVS" /></p>
-
-### Feel Free to Contact Me
-
-[<img align="left" alt="Ashish_Gmail" width=25px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:avsashish9@gmail.com)
-[<img align="left" alt="Ashish_Facebook" width=25px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/avsashish/)
-[<img align="left" alt="Ashish_Linkedin" width=25px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/ashishavs/)
-<!--
-**Ashish-AVS/Ashish-AVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=adeecc&icon=0&color=0)](https://visitcount.itsvg.in)
